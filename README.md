@@ -44,19 +44,19 @@ Hay redes sociales de todo tipo y para todo tipo de intereses. Por ejemplo, en u
 
 -   Vista para Desktop:
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/56327014/94626624-16b61300-0281-11eb-8844-8d93e6eaf600.png" width="600"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/56327014/94626624-16b61300-0281-11eb-8844-8d93e6eaf600.png" width="500"> </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/56327014/94626646-22093e80-0281-11eb-81f7-b507a19580c2.png" width="600"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/56327014/94626646-22093e80-0281-11eb-81f7-b507a19580c2.png" width="500"> </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/56327014/94626661-29c8e300-0281-11eb-975c-9466a4021e04.png" width="600"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/56327014/94626661-29c8e300-0281-11eb-975c-9466a4021e04.png" width="500"> </p>
 
 -   Vista para móvil:
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/56327014/94627067-2a15ae00-0282-11eb-832f-7bdbb77f2fc9.png" width="300"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/56327014/94627067-2a15ae00-0282-11eb-832f-7bdbb77f2fc9.png" width="200"> </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/56327014/94627081-313cbc00-0282-11eb-8c3d-91665b6c8282.png" width="300"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/56327014/94627081-313cbc00-0282-11eb-8c3d-91665b6c8282.png" width="200"> </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/56327014/94627092-38fc6080-0282-11eb-810e-7ecdbeb46570.png" width="300"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/56327014/94627092-38fc6080-0282-11eb-810e-7ecdbeb46570.png" width="200"> </p>
 
 ## 4. Diseño final
 
