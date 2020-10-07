@@ -25,7 +25,7 @@ export default () => {
         </span>
       </section> 
       <div class="buttons">
-        <button class="btn-sign" type="submit"><a href="/#signup">Sign Up</a> </button>
+        <button class="btn-sign" type="submit"><a href="#signup">Sign Up</a> </button>
         </div>
         <div class="or">
           <p class="or-sign or-log">or</p>
@@ -37,7 +37,7 @@ export default () => {
           <p class="food fo-sign">Already a foodiebook member?</p>
         </div>
         <div class="member">
-          <p class="here he-sign"><a href="/#login">Log in here.</a></p>
+          <p class="here he-sign"><a href="#login">Log in here.</a></p>
         </div>
     </form>   
   `;
