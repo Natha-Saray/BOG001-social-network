@@ -1,8 +1,9 @@
 // import { manejadorEvento } from '../views/timeLine.js'
 
 /*------- INGRESAR A LA APLCACION -----*/
-
+//parametros en esta funcion email, password
 function logueo (email,password){
+  //argumentos /en este caso/ de signInWithEmailAndPassword email-password
   firebase.auth().signInWithEmailAndPassword(email,password).then((result) =>{
     window.location.hash = "#welcome";  
   })
